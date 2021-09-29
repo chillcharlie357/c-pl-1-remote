@@ -2,5 +2,6 @@
 //main:function ;int:integer
 int main() {
     printf("Hello, World!\n");
+    printf("hello again");
     return 0;
 }
