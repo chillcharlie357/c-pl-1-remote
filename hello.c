@@ -2,6 +2,7 @@
 //main:function ;int:integer
 int main() {
     printf("Hello, World!\n");
-    printf("hello again");
+    printf("hello again\n");
+    printf("123");
     return 0;
 }
